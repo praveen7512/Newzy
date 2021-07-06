@@ -17,10 +17,14 @@ interface RetrofitService {
     fun get() :Call<Model>
 
 
+
+
     companion object {
 
         var retrofitService: RetrofitService? = null
 
+
+          //this function will retrun the instance of Retrofit inferface
         fun getInstance() : RetrofitService {
 
             if (retrofitService == null) {
