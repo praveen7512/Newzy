@@ -7,7 +7,8 @@
 
 
 
- <img src="https://user-images.githubusercontent.com/72389100/144631191-0ae72fbb-a7e0-4368-8d14-baeb0a005af7.jpg" width=700 height=480>
+
+ <img src="https://user-images.githubusercontent.com/72389100/146244590-532c26b3-6ee1-4e9b-9ee0-c08efac10be2.jpg" width=1100 height=500>
  
  
  ## Android Development Features 🛠
@@ -20,6 +21,8 @@
  - Use of Coroutines
  
  ## Architectural pattern 🛠
+ 
+  <img src="https://i.stack.imgur.com/Q3NBc.png" width=700 height=480>
  
  ## Libaries And API 💡
  - <a href="https://lottiefiles.com/">Lottie Animations</a>
